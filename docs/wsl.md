@@ -1,5 +1,5 @@
 ## set proxy
-[.wslconfig](https://learn.microsoft.com/en-us/windows/wsl/wsl-config#wslconfig)
+[Config ](https://learn.microsoft.com/en-us/windows/wsl/wsl-config#wslconfig) .wslconfig
 
 ## ssh from another machine
 [Edit](https://gist.github.com/SomajitDey/ec8257ae781234e2a63f3eb731864765) /etc/ssh/sshd_config.
