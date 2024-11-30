@@ -1,2 +1,2 @@
 # CSNote
-Notebook of CS knowledge
+Notes in developing.
